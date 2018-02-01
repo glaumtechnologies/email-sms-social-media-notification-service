@@ -2,6 +2,6 @@
 .project
 .settings/
 .idea/**
-gmanage.iml
+notification-service.iml
 gmanage-base/gmanage-base.iml
 gmanage-base/target/**
